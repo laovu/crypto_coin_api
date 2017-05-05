@@ -3,9 +3,9 @@ package yunbi
 import (
 	"testing"
 	"net/http"
-	"github.com/nntaoli/crypto_coin_api"
+	"github.com/laovu/crypto_coin_api"
 	"github.com/stretchr/testify/assert"
-	"github.com/nntaoli/crypto_coin_api/yunbi"
+	"github.com/laovu/crypto_coin_api/yunbi"
 )
 
 var (

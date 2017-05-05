@@ -3,7 +3,7 @@ package unit
 import (
 	"testing"
 	"net/http"
-	"github.com/nntaoli/crypto_coin_api"
+	"github.com/laovu/crypto_coin_api"
 	"github.com/stretchr/testify/assert"
 	"net/url"
 )

@@ -3,9 +3,9 @@ package unit
 import (
 	"testing"
 	"github.com/stretchr/testify/assert"
-	"github.com/nntaoli/crypto_coin_api/chbtc"
+	"github.com/laovu/crypto_coin_api/chbtc"
 	"net/http"
-	"github.com/nntaoli/crypto_coin_api"
+	"github.com/laovu/crypto_coin_api"
 )
 
 func Test_GetExchangeName(t *testing.T) {

@@ -1,8 +1,8 @@
 package unit_test
 
 import (
-	. "github.com/nntaoli/crypto_coin_api"
-	"github.com/nntaoli/crypto_coin_api/builder"
+	. "github.com/laovu/crypto_coin_api"
+	"github.com/laovu/crypto_coin_api/builder"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

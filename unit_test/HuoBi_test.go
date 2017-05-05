@@ -1,9 +1,9 @@
 package unit
 import (
 	"testing"
-	"github.com/nntaoli/crypto_coin_api/huobi"
+	"github.com/laovu/crypto_coin_api/huobi"
 	"net/http"
-	"github.com/nntaoli/crypto_coin_api"
+	"github.com/laovu/crypto_coin_api"
 	"github.com/stretchr/testify/assert"
 	"time"
 )
